@@ -1,2 +1,3 @@
 StudentManagementSystem_Qt只实现了页面切换
 StudentManagementSystem_Qt_1(uiOnly)完成了简单的页面布局设计
+StudentManagementSystem_Qt_2(add)完成了添加功能
