@@ -44,7 +44,7 @@ void AddStudentWidget::on_addButton_clicked(){  //"添加"按钮点击
     }
     QTextStream out(&file);
     //QTextStream可以进行一些基本的文本读写，比如QString int char之类的数据QDataStream可以进行一个如QMap QPoint之类数据的读写。
-    out << name << " " <<  id << " " << math << " " << english << " " << languageC;
+    out << name << " " <<  id << " " << math << " " << english << " " << languageC << endl;
     //将我们刚刚获取的数据写入文件
     file.close();
     QMessageBox::about(NULL, "反馈", "插入成功");
