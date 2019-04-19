@@ -3,3 +3,4 @@ StudentManagementSystem_Qt_1(uiOnly)完成了简单的页面布局设计
 StudentManagementSystem_Qt_2(add)完成了添加功能
 StudentManagementSystem_Qt_3(add,modify)完成了添加与修改功能
 StudentManagementSystem_Qt_4(add,modify,select)完成了添加修改查询功能
+StudentManagementSystem_Qt_5(all)完成了所有功能
