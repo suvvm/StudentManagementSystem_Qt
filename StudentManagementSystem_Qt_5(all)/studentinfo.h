@@ -1,6 +1,6 @@
 #ifndef STUDENTINFO_H
 #define STUDENTINFO_H
-#include <QString>;
+#include <QString>
 
 class StudentInfo
 {
