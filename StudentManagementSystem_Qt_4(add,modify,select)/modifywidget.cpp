@@ -51,6 +51,7 @@ void ModifyWidget::on_deleteButton_clicked(){
         if(it->getId() == id){  //如果找到有id与该id相同的学生，就进行删除
             allStudentInfo.erase(it);
             flag = true;
+            break;
         }
     }
     if(flag){   //如果进行过删除，弹出对话框并更新文件
